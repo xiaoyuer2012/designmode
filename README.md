@@ -1,5 +1,4 @@
-# designmode
-##设计模式
+## designmode
 #### spring-design-mode-delegate  委派模式
 #### spring-design-mode-factory   工厂模式
 #### spring-design-mode-prototype 原型模式
